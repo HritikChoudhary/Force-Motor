@@ -241,7 +241,6 @@ nav ul li a:hover {
     width: 28rem;
     margin-top: 1rem;
     margin-left: 1.5rem;
-    text-transform: capitalize;
     background-color: rgb(243, 239, 239);
     border: 0;
 }
@@ -252,7 +251,6 @@ nav ul li a:hover {
     width: 28rem;
     margin-top: 1rem;
     margin-left: 1.5rem;
-    text-transform: capitalize;
     background-color: rgb(243, 239, 239);
     border: 0;
 }
